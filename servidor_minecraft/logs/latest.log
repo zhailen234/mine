@@ -1,111 +1,26 @@
-[04:30:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:30:38] [ServerMain/INFO]: Loaded 1407 recipes
-[04:30:38] [ServerMain/INFO]: Loaded 1520 advancements
-[04:30:39] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[04:30:39] [Server thread/INFO]: Loading properties
-[04:30:39] [Server thread/INFO]: Default game type: SURVIVAL
-[04:30:39] [Server thread/INFO]: Generating keypair
-[04:30:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:30:39] [Server thread/INFO]: Using epoll channel type
-[04:30:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:30:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:30:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:30:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:30:39] [Server thread/INFO]: Preparing level "world"
-[04:30:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:30:42] [Server thread/INFO]: Time elapsed: 2691 ms
-[04:30:42] [Server thread/INFO]: Done (2.990s)! For help, type "help"
-[04:31:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:35:43] [Server thread/INFO]: zhailents[/127.248.2.174:60877] logged in with entity id 12 at (-1.5, 68.0, 55.5)
-[04:35:43] [Server thread/INFO]: zhailents joined the game
-[04:35:50] [Server thread/INFO]: zhailents lost connection: Disconnected
-[04:35:50] [Server thread/INFO]: zhailents left the game
-[04:36:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:39:33] [Server thread/INFO]: zhailen3[/127.248.2.174:41099] logged in with entity id 232 at (6.5, 69.0, 58.5)
-[04:39:33] [Server thread/INFO]: zhailen3 joined the game
-[04:39:47] [Server thread/INFO]: zhailen3 lost connection: Disconnected
-[04:39:47] [Server thread/INFO]: zhailen3 left the game
-[04:40:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:40:53] [Server thread/INFO]: zhailen3[/127.248.2.174:33993] logged in with entity id 403 at (6.338741676900778, 69.0, 61.402640677000896)
-[04:40:53] [Server thread/INFO]: zhailen3 joined the game
-[04:40:59] [Server thread/INFO]: zhailen3 lost connection: Disconnected
-[04:40:59] [Server thread/INFO]: zhailen3 left the game
-[04:41:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:42:12] [Server thread/INFO]: zhailen[/127.248.2.174:40459] logged in with entity id 556 at (-5.5, 71.0, 42.5)
-[04:42:12] [Server thread/INFO]: zhailen joined the game
-[04:44:13] [Server thread/INFO]: zhailen lost connection: Disconnected
-[04:44:13] [Server thread/INFO]: zhailen left the game
-[04:45:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:01:32] [Server thread/INFO]: zhailen[/127.248.2.174:52951] logged in with entity id 1237 at (51.072696438109844, 72.0, 29.886652967790972)
-[05:01:32] [Server thread/INFO]: zhailen joined the game
-[05:04:28] [Server thread/INFO]: zhailen has made the advancement [Monster Hunter]
-[05:05:52] [Server thread/INFO]: gennexd[/127.2.131.157:33105] logged in with entity id 2124 at (6.5, 74.0, 44.5)
-[05:05:52] [Server thread/INFO]: gennexd joined the game
-[05:05:57] [Server thread/INFO]: zhailen has made the advancement [Stone Age]
-[05:06:04] [Server thread/INFO]: zhailen has made the advancement [Getting an Upgrade]
-[05:08:06] [Server thread/INFO]: gennexd has made the advancement [Getting an Upgrade]
-[05:16:03] [Server thread/INFO]: zhailen has made the advancement [Sweet Dreams]
-[05:16:04] [Server thread/INFO]: gennexd has made the advancement [Sweet Dreams]
-[05:18:45] [Server thread/INFO]: gennexd has made the advancement [Stone Age]
-[05:19:55] [Server thread/INFO]: zhailen has made the advancement [Acquire Hardware]
-[05:20:12] [Server thread/INFO]: zhailen has made the advancement [Suit Up]
-[05:20:49] [Server thread/INFO]: zhailen has made the advancement [Isn't It Iron Pick]
-[05:30:05] [Server thread/INFO]: zhailen has made the advancement [Diamonds!]
-[05:42:48] [Server thread/INFO]: zhailen has made the advancement [Cover Me with Diamonds]
-[05:43:03] [Server thread/INFO]: gennexd has made the advancement [Suit Up]
-[05:43:41] [Server thread/INFO]: gennexd has made the advancement [Acquire Hardware]
-[05:46:40] [Server thread/INFO]: zhailen has made the advancement [Ice Bucket Challenge]
-[05:49:10] [Server thread/INFO]: zhailen has made the advancement [We Need to Go Deeper]
-[05:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
-[05:52:08] [Server thread/INFO]: zhailen has made the advancement [A Terrible Fortress]
-[05:53:27] [Server thread/INFO]: zhailen withered away
-[05:59:04] [Server thread/INFO]: zhailen was slain by Magma Cube
-[06:21:51] [Server thread/INFO]: zhailen lost connection: Disconnected
-[06:21:51] [Server thread/INFO]: zhailen left the game
-[06:22:12] [Server thread/INFO]: zhailen[/127.248.2.174:53477] logged in with entity id 25833 at (1150.7294205541712, 65.0, 274.5408402765574)
-[06:22:12] [Server thread/INFO]: zhailen joined the game
-[06:33:20] [Server thread/INFO]: zhailen lost connection: Disconnected
-[06:33:20] [Server thread/INFO]: zhailen left the game
-[06:33:34] [Server thread/INFO]: zhailen[/127.248.2.174:48101] logged in with entity id 31795 at (1162.371572728425, 70.0, 304.90556710174354)
-[06:33:34] [Server thread/INFO]: zhailen joined the game
-[06:40:41] [Server thread/INFO]: gennexd lost connection: Disconnected
-[06:40:41] [Server thread/INFO]: gennexd left the game
-[06:50:31] [Server thread/INFO]: gennexd[/127.2.131.157:39141] logged in with entity id 36809 at (207.06481184409387, 68.0, 165.74080100009377)
-[06:50:31] [Server thread/INFO]: gennexd joined the game
-[06:51:04] [Server thread/INFO]: gennexd lost connection: Disconnected
-[06:51:04] [Server thread/INFO]: gennexd left the game
-[06:56:17] [Server thread/INFO]: gennexd[/127.2.131.157:34883] logged in with entity id 39056 at (207.06481184409387, 68.0, 165.74080100009377)
-[06:56:17] [Server thread/INFO]: gennexd joined the game
-[06:57:39] [Server thread/INFO]: gennexd lost connection: Disconnected
-[06:57:39] [Server thread/INFO]: gennexd left the game
-[07:04:37] [Server thread/INFO]: gennexd[/127.2.131.157:58575] logged in with entity id 45715 at (209.16111827099084, 68.5625, 167.62700725674014)
-[07:04:37] [Server thread/INFO]: gennexd joined the game
-[07:04:43] [Server thread/INFO]: Ejecutroll[/127.165.71.14:40481] logged in with entity id 45944 at (-5.5, 71.0, 46.5)
-[07:04:43] [Server thread/INFO]: Ejecutroll joined the game
-[07:05:39] [Server thread/INFO]: Ejecutroll has made the advancement [Monster Hunter]
-[07:07:57] [Server thread/INFO]: gennexd has made the advancement [Monster Hunter]
-[07:07:57] [Server thread/INFO]: Ejecutroll has made the advancement [Stone Age]
-[07:09:50] [Server thread/INFO]: Ejecutroll has made the advancement [Getting an Upgrade]
-[07:10:03] [Server thread/INFO]: zhailen lost connection: Disconnected
-[07:10:03] [Server thread/INFO]: zhailen left the game
-[07:10:12] [Server thread/INFO]: zhailen[/127.248.2.174:52633] logged in with entity id 50082 at (4254.002048046597, 69.0, -301.1670520630859)
-[07:10:12] [Server thread/INFO]: zhailen joined the game
-[07:15:28] [Server thread/INFO]: Ejecutroll was stung to death
-[07:15:28] [Server thread/INFO]: [Not Secure] <gennexd> unete a la llamada
-[07:16:07] [Server thread/INFO]: [Not Secure] <gennexd> oye tus cosas
-[07:16:17] [Server thread/INFO]: zhailen has made the advancement [Best Friends Forever]
-[07:17:00] [Server thread/INFO]: [Not Secure] <Ejecutroll> graciaaas
-[07:17:11] [Server thread/INFO]: [Not Secure] <gennexd> siguemeeeeeeeeeee
-[07:17:21] [Server thread/INFO]: [Not Secure] <Ejecutroll> yia
-[07:19:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=3446, y=65, z=-1177} jb{x=3446, y=64, z=-1176}
-[07:20:44] [Server thread/INFO]: [Not Secure] <Ejecutroll> te me perdiste xora
-[07:21:02] [Server thread/INFO]: [Not Secure] <Ejecutroll> y tu compa
-[07:22:37] [Server thread/INFO]: zhailen lost connection: Disconnected
-[07:22:37] [Server thread/INFO]: zhailen left the game
-[07:28:19] [Server thread/INFO]: Ejecutroll has made the advancement [Sweet Dreams]
+[19:03:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:03:53] [ServerMain/INFO]: Loaded 1407 recipes
+[19:03:53] [ServerMain/INFO]: Loaded 1520 advancements
+[19:03:53] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[19:03:53] [Server thread/INFO]: Loading properties
+[19:03:53] [Server thread/INFO]: Default game type: SURVIVAL
+[19:03:53] [Server thread/INFO]: Generating keypair
+[19:03:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:03:53] [Server thread/INFO]: Using epoll channel type
+[19:03:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:03:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:03:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:03:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:03:53] [Server thread/INFO]: Preparing level "world"
+[19:03:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:03:57] [Server thread/INFO]: Time elapsed: 3366 ms
+[19:03:57] [Server thread/INFO]: Done (3.692s)! For help, type "help"
+[19:04:30] [Server thread/INFO]: zhailen[/127.248.2.174:53119] logged in with entity id 5 at (3775.5362110519445, 57.57792940790564, -1533.9183579639698)
+[19:04:30] [Server thread/INFO]: zhailen joined the game
