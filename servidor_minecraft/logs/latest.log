@@ -1,42 +1,33 @@
-[02:19:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:19:54] [ServerMain/INFO]: No existing world data, creating new world
-[02:19:55] [ServerMain/INFO]: Loaded 1407 recipes
-[02:19:55] [ServerMain/INFO]: Loaded 1520 advancements
-[02:19:55] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[02:19:55] [Server thread/INFO]: Loading properties
-[02:19:55] [Server thread/INFO]: Default game type: SURVIVAL
-[02:19:55] [Server thread/INFO]: Generating keypair
-[02:19:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:19:55] [Server thread/INFO]: Using epoll channel type
-[02:19:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:19:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:19:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:19:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:19:56] [Server thread/INFO]: Preparing level "world"
-[02:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:20:04] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:20:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:20:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:20:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:20:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:20:07] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:20:07] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[02:20:08] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[02:20:09] [Worker-Main-3/INFO]: Preparing spawn area: 26%
-[02:20:09] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:20:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:20:10] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[02:20:11] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[02:20:11] [Server thread/INFO]: Time elapsed: 6645 ms
-[02:20:11] [Server thread/INFO]: Done (15.515s)! For help, type "help"
-[02:21:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:22:06] [Server thread/INFO]: zhailent[/127.7.207.70:47641] logged in with entity id 33 at (-0.5, 71.0, 51.5)
-[02:22:06] [Server thread/INFO]: zhailent joined the game
-[02:27:10] [Server thread/INFO]: zhailent has made the advancement [Stone Age]
-[02:27:19] [Server thread/INFO]: zhailent has made the advancement [Getting an Upgrade]
-[02:31:50] [Server thread/INFO]: zhailent has made the advancement [Sweet Dreams]
-[02:33:24] [Server thread/INFO]: zhailent has made the advancement [Acquire Hardware]
-[02:34:36] [Server thread/INFO]: zhailent has made the advancement [Isn't It Iron Pick]
-[02:52:52] [Server thread/WARN]: Oak Boat (vehicle of zhailent) moved too quickly! -0.25039074856519505,0.0,10.348505398861562
-[02:52:52] [Server thread/WARN]: Oak Boat (vehicle of zhailent) moved too quickly! -0.2491117459603629,0.0,10.748134697800197
+[04:30:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:30:38] [ServerMain/INFO]: Loaded 1407 recipes
+[04:30:38] [ServerMain/INFO]: Loaded 1520 advancements
+[04:30:39] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[04:30:39] [Server thread/INFO]: Loading properties
+[04:30:39] [Server thread/INFO]: Default game type: SURVIVAL
+[04:30:39] [Server thread/INFO]: Generating keypair
+[04:30:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:30:39] [Server thread/INFO]: Using epoll channel type
+[04:30:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:30:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:30:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:30:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:30:39] [Server thread/INFO]: Preparing level "world"
+[04:30:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:30:42] [Server thread/INFO]: Time elapsed: 2691 ms
+[04:30:42] [Server thread/INFO]: Done (2.990s)! For help, type "help"
+[04:31:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:35:43] [Server thread/INFO]: zhailents[/127.248.2.174:60877] logged in with entity id 12 at (-1.5, 68.0, 55.5)
+[04:35:43] [Server thread/INFO]: zhailents joined the game
+[04:35:50] [Server thread/INFO]: zhailents lost connection: Disconnected
+[04:35:50] [Server thread/INFO]: zhailents left the game
+[04:36:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:39:33] [Server thread/INFO]: zhailen3[/127.248.2.174:41099] logged in with entity id 232 at (6.5, 69.0, 58.5)
+[04:39:33] [Server thread/INFO]: zhailen3 joined the game
+[04:39:47] [Server thread/INFO]: zhailen3 lost connection: Disconnected
+[04:39:47] [Server thread/INFO]: zhailen3 left the game

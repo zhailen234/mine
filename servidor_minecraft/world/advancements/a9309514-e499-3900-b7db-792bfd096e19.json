@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-29 02:22:06 +0000"
@@ -727,16 +733,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-07-29 02:38:06 +0000",
+      "minecraft:flower_forest": "2025-07-29 02:59:11 +0000",
       "minecraft:beach": "2025-07-29 02:35:47 +0000",
       "minecraft:dark_forest": "2025-07-29 02:39:01 +0000",
       "minecraft:forest": "2025-07-29 02:22:07 +0000",
-      "minecraft:ocean": "2025-07-29 02:36:14 +0000",
       "minecraft:deep_ocean": "2025-07-29 02:47:43 +0000",
       "minecraft:river": "2025-07-29 02:36:42 +0000",
       "minecraft:lukewarm_ocean": "2025-07-29 02:44:44 +0000",
-      "minecraft:birch_forest": "2025-07-29 02:38:43 +0000",
       "minecraft:stony_shore": "2025-07-29 02:41:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-29 02:38:06 +0000",
+      "minecraft:ocean": "2025-07-29 02:36:14 +0000",
+      "minecraft:sunflower_plains": "2025-07-29 02:58:47 +0000",
+      "minecraft:birch_forest": "2025-07-29 02:38:43 +0000",
+      "minecraft:plains": "2025-07-29 02:58:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-29 02:45:37 +0000"
     },
     "done": false
@@ -972,6 +981,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-29 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:00:08 +0000"
     },
     "done": true
   },
